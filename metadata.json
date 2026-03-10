@@ -1,0 +1,7 @@
+{
+  "name": "Social Gemini Voice",
+  "description": "A relaxed, social voice chat app powered by Gemini Live API, designed for natural conversations rather than just Q&A.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
